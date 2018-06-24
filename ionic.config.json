@@ -1,0 +1,8 @@
+{
+  "name": "ccanoc",
+  "app_id": "d59fe7ab",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
